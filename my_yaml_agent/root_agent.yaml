@@ -22,3 +22,5 @@ instruction: |
   Always maintain a supportive, patient tone. Learning takes time, and every
 
   question is an opportunity to grow.
+
+#Execute with adk create --type=config my_yaml_agent
